@@ -1,0 +1,154 @@
+[
+  {
+    "Name": "iPhone X",
+    "Price": 999.99,
+    "Description": "The latest iPhone model",
+    "Stock": 10,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?iphone"
+  },
+  {
+    "Name": "Samsung Galaxy S9",
+    "Price": 899.99,
+    "Description": "Top Android phone",
+    "Stock": 5,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?samsung"
+  },
+  {
+    "Name": "Google Pixel 3",
+    "Price": 799.99,
+    "Description": "Pure Android experience",
+    "Stock": 8,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?googlepixel"
+  },
+  {
+    "Name": "Huawei P20 Pro",
+    "Price": 699.99,
+    "Description": "Leica triple camera",
+    "Stock": 3,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?huawei"
+  },
+  {
+    "Name": "LG G7 ThinQ",
+    "Price": 649.99,
+    "Description": "AI-powered smartphone",
+    "Stock": 6,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?lg"
+  },
+  {
+    "Name": "OnePlus 6T",
+    "Price": 549.99,
+    "Description": "Flagship killer",
+    "Stock": 7,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?oneplus"
+  },
+  {
+    "Name": "Sony Xperia XZ3",
+    "Price": 699.99,
+    "Description": "Bravia OLED display",
+    "Stock": 4,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?sony"
+  },
+  {
+    "Name": "Xiaomi Mi 8",
+    "Price": 499.99,
+    "Description": "Powerful budget option",
+    "Stock": 9,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?xiaomi"
+  },
+  {
+    "Name": "Motorola Moto G6",
+    "Price": 249.99,
+    "Description": "Great value for money",
+    "Stock": 12,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?motorola"
+  },
+  {
+    "Name": "Nokia 8 Sirocco",
+    "Price": 599.99,
+    "Description": "Premium build quality",
+    "Stock": 2,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?nokia"
+  },
+  {
+    "Name": "HTC U12+",
+    "Price": 699.99,
+    "Description": "Edge Sense technology",
+    "Stock": 5,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?htc"
+  },
+  {
+    "Name": "BlackBerry Key2",
+    "Price": 649.99,
+    "Description": "Physical keyboard",
+    "Stock": 3,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?blackberry"
+  },
+  {
+    "Name": "ASUS ZenFone 5Z",
+    "Price": 499.99,
+    "Description": "AI-powered performance",
+    "Stock": 8,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?asus"
+  },
+  {
+    "Name": "Lenovo Z5 Pro",
+    "Price": 399.99,
+    "Description": "Full-screen display",
+    "Stock": 10,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?lenovo"
+  },
+  {
+    "Name": "Oppo Find X",
+    "Price": 799.99,
+    "Description": "Pop-up camera design",
+    "Stock": 4,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?oppo"
+  },
+  {
+    "Name": "Vivo Nex",
+    "Price": 749.99,
+    "Description": "Bezel-less display",
+    "Stock": 6,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?vivo"
+  },
+  {
+    "Name": "ZTE Axon 9 Pro",
+    "Price": 699.99,
+    "Description": "High-quality audio",
+    "Stock": 5,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?zte"
+  },
+  {
+    "Name": "Razer Phone 2",
+    "Price": 799.99,
+    "Description": "Gaming-focused features",
+    "Stock": 3,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?razer"
+  },
+  {
+    "Name": "Essential Phone",
+    "Price": 499.99,
+    "Description": "Modular accessory system",
+    "Stock": 7,
+    "Status": true,
+    "UrlImage": "https://source.unsplash.com/featured/?essential"
+  }
+]
